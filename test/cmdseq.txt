@@ -1,0 +1,1 @@
+3left 0right 1levelup norandom test/charseq.txt leveldown down drop 5restart 
